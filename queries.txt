@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"name": "22222",
+	"lastname": "vxcxsadfc",
+	"adress": "offfxcv",
+	"country": "cndtry"
+}
+
+
+
+programy: postman, insomnia
